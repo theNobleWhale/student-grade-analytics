@@ -1,0 +1,2384 @@
+{
+    "overall": {
+        "records": 120,
+        "mean": 73.05,
+        "median": 74.0,
+        "highest": 100,
+        "lowest": 36,
+        "passRate": 85.83333333333333,
+        "modes": [
+            65,
+            72
+        ],
+        "gradeCounts": {
+            "A": 12,
+            "B": 27,
+            "C": 34,
+            "D": 30,
+            "F": 17
+        }
+    },
+    "semesters": {
+        "2025S1": {
+            "records": 40,
+            "mean": 71.875,
+            "median": 71.5,
+            "highest": 92,
+            "lowest": 51,
+            "passRate": 87.5,
+            "modes": [
+                65,
+                69,
+                79
+            ],
+            "gradeCounts": {
+                "A": 1,
+                "B": 9,
+                "C": 12,
+                "D": 13,
+                "F": 5
+            }
+        },
+        "2025S2": {
+            "records": 40,
+            "mean": 73.225,
+            "median": 72.0,
+            "highest": 97,
+            "lowest": 45,
+            "passRate": 87.5,
+            "modes": [
+                72
+            ],
+            "gradeCounts": {
+                "A": 4,
+                "B": 8,
+                "C": 14,
+                "D": 9,
+                "F": 5
+            }
+        },
+        "2026S1": {
+            "records": 40,
+            "mean": 74.05,
+            "median": 76.0,
+            "highest": 100,
+            "lowest": 36,
+            "passRate": 82.5,
+            "modes": [
+                65,
+                76,
+                91
+            ],
+            "gradeCounts": {
+                "A": 7,
+                "B": 10,
+                "C": 8,
+                "D": 8,
+                "F": 7
+            }
+        }
+    },
+    "semesterTrend": [
+        {
+            "semester": "2025S1",
+            "records": 40,
+            "mean": 71.875,
+            "rollingMean": 71.875
+        },
+        {
+            "semester": "2025S2",
+            "records": 40,
+            "mean": 73.225,
+            "rollingMean": 72.55
+        },
+        {
+            "semester": "2026S1",
+            "records": 40,
+            "mean": 74.05,
+            "rollingMean": 73.63749999999999
+        }
+    ],
+    "studentTrends": {
+        "improving": 12,
+        "declining": 7,
+        "stable": 1,
+        "insufficient_data": 0
+    },
+    "courses": {
+        "CS202": {
+            "courseName": "Algorithms",
+            "courseCode": "CS202",
+            "creditHours": 5,
+            "records": 60,
+            "mean": 73.33333333333333,
+            "median": 74.5,
+            "highest": 98,
+            "lowest": 42,
+            "passRate": 88.33333333333333,
+            "modes": [
+                79
+            ],
+            "gradeCounts": {
+                "A": 6,
+                "B": 13,
+                "C": 17,
+                "D": 17,
+                "F": 7
+            },
+            "students": [
+                {
+                    "name": "Sarah Mavis",
+                    "id": "9000137",
+                    "score": 80,
+                    "grade": "B"
+                },
+                {
+                    "name": "Sarah Mavis",
+                    "id": "9000137",
+                    "score": 86,
+                    "grade": "B"
+                },
+                {
+                    "name": "Sarah Mavis",
+                    "id": "9000137",
+                    "score": 69,
+                    "grade": "D"
+                },
+                {
+                    "name": "Jean Dove",
+                    "id": "9000174",
+                    "score": 65,
+                    "grade": "D"
+                },
+                {
+                    "name": "Jean Dove",
+                    "id": "9000174",
+                    "score": 61,
+                    "grade": "D"
+                },
+                {
+                    "name": "Jean Dove",
+                    "id": "9000174",
+                    "score": 65,
+                    "grade": "D"
+                },
+                {
+                    "name": "Clancy Toms",
+                    "id": "9000211",
+                    "score": 51,
+                    "grade": "F"
+                },
+                {
+                    "name": "Clancy Toms",
+                    "id": "9000211",
+                    "score": 53,
+                    "grade": "F"
+                },
+                {
+                    "name": "Clancy Toms",
+                    "id": "9000211",
+                    "score": 42,
+                    "grade": "F"
+                },
+                {
+                    "name": "Ama Mensah",
+                    "id": "9000248",
+                    "score": 71,
+                    "grade": "C"
+                },
+                {
+                    "name": "Ama Mensah",
+                    "id": "9000248",
+                    "score": 78,
+                    "grade": "C"
+                },
+                {
+                    "name": "Ama Mensah",
+                    "id": "9000248",
+                    "score": 81,
+                    "grade": "B"
+                },
+                {
+                    "name": "Kofi Boateng",
+                    "id": "9000285",
+                    "score": 56,
+                    "grade": "F"
+                },
+                {
+                    "name": "Kofi Boateng",
+                    "id": "9000285",
+                    "score": 69,
+                    "grade": "D"
+                },
+                {
+                    "name": "Kofi Boateng",
+                    "id": "9000285",
+                    "score": 76,
+                    "grade": "C"
+                },
+                {
+                    "name": "Abena Carter",
+                    "id": "9000322",
+                    "score": 77,
+                    "grade": "C"
+                },
+                {
+                    "name": "Abena Carter",
+                    "id": "9000322",
+                    "score": 77,
+                    "grade": "C"
+                },
+                {
+                    "name": "Abena Carter",
+                    "id": "9000322",
+                    "score": 79,
+                    "grade": "C"
+                },
+                {
+                    "name": "Elijah Tetteh",
+                    "id": "9000359",
+                    "score": 92,
+                    "grade": "A"
+                },
+                {
+                    "name": "Elijah Tetteh",
+                    "id": "9000359",
+                    "score": 80,
+                    "grade": "B"
+                },
+                {
+                    "name": "Elijah Tetteh",
+                    "id": "9000359",
+                    "score": 94,
+                    "grade": "A"
+                },
+                {
+                    "name": "Priya Nair",
+                    "id": "9000396",
+                    "score": 61,
+                    "grade": "D"
+                },
+                {
+                    "name": "Priya Nair",
+                    "id": "9000396",
+                    "score": 70,
+                    "grade": "C"
+                },
+                {
+                    "name": "Priya Nair",
+                    "id": "9000396",
+                    "score": 59,
+                    "grade": "F"
+                },
+                {
+                    "name": "Lucas Stewart",
+                    "id": "9000433",
+                    "score": 79,
+                    "grade": "C"
+                },
+                {
+                    "name": "Lucas Stewart",
+                    "id": "9000433",
+                    "score": 88,
+                    "grade": "B"
+                },
+                {
+                    "name": "Lucas Stewart",
+                    "id": "9000433",
+                    "score": 82,
+                    "grade": "B"
+                },
+                {
+                    "name": "Fiifi Edwards",
+                    "id": "9000470",
+                    "score": 79,
+                    "grade": "C"
+                },
+                {
+                    "name": "Fiifi Edwards",
+                    "id": "9000470",
+                    "score": 92,
+                    "grade": "A"
+                },
+                {
+                    "name": "Fiifi Edwards",
+                    "id": "9000470",
+                    "score": 98,
+                    "grade": "A"
+                },
+                {
+                    "name": "Wei Danso",
+                    "id": "9000507",
+                    "score": 83,
+                    "grade": "B"
+                },
+                {
+                    "name": "Wei Danso",
+                    "id": "9000507",
+                    "score": 68,
+                    "grade": "D"
+                },
+                {
+                    "name": "Wei Danso",
+                    "id": "9000507",
+                    "score": 72,
+                    "grade": "C"
+                },
+                {
+                    "name": "Maya Lopez",
+                    "id": "9000544",
+                    "score": 64,
+                    "grade": "D"
+                },
+                {
+                    "name": "Maya Lopez",
+                    "id": "9000544",
+                    "score": 72,
+                    "grade": "C"
+                },
+                {
+                    "name": "Maya Lopez",
+                    "id": "9000544",
+                    "score": 75,
+                    "grade": "C"
+                },
+                {
+                    "name": "Samuel Owusu",
+                    "id": "9000581",
+                    "score": 69,
+                    "grade": "D"
+                },
+                {
+                    "name": "Samuel Owusu",
+                    "id": "9000581",
+                    "score": 61,
+                    "grade": "D"
+                },
+                {
+                    "name": "Samuel Owusu",
+                    "id": "9000581",
+                    "score": 65,
+                    "grade": "D"
+                },
+                {
+                    "name": "Nia Johnson",
+                    "id": "9000618",
+                    "score": 81,
+                    "grade": "B"
+                },
+                {
+                    "name": "Nia Johnson",
+                    "id": "9000618",
+                    "score": 79,
+                    "grade": "C"
+                },
+                {
+                    "name": "Nia Johnson",
+                    "id": "9000618",
+                    "score": 86,
+                    "grade": "B"
+                },
+                {
+                    "name": "Omar Haddad",
+                    "id": "9000655",
+                    "score": 68,
+                    "grade": "D"
+                },
+                {
+                    "name": "Omar Haddad",
+                    "id": "9000655",
+                    "score": 82,
+                    "grade": "B"
+                },
+                {
+                    "name": "Omar Haddad",
+                    "id": "9000655",
+                    "score": 81,
+                    "grade": "B"
+                },
+                {
+                    "name": "Grace Appiah",
+                    "id": "9000692",
+                    "score": 60,
+                    "grade": "D"
+                },
+                {
+                    "name": "Grace Appiah",
+                    "id": "9000692",
+                    "score": 51,
+                    "grade": "F"
+                },
+                {
+                    "name": "Grace Appiah",
+                    "id": "9000692",
+                    "score": 51,
+                    "grade": "F"
+                },
+                {
+                    "name": "Daniel Garcia",
+                    "id": "9000729",
+                    "score": 88,
+                    "grade": "B"
+                },
+                {
+                    "name": "Daniel Garcia",
+                    "id": "9000729",
+                    "score": 94,
+                    "grade": "A"
+                },
+                {
+                    "name": "Daniel Garcia",
+                    "id": "9000729",
+                    "score": 91,
+                    "grade": "A"
+                },
+                {
+                    "name": "Esi Quaye",
+                    "id": "9000766",
+                    "score": 78,
+                    "grade": "C"
+                },
+                {
+                    "name": "Esi Quaye",
+                    "id": "9000766",
+                    "score": 72,
+                    "grade": "C"
+                },
+                {
+                    "name": "Esi Quaye",
+                    "id": "9000766",
+                    "score": 65,
+                    "grade": "D"
+                },
+                {
+                    "name": "Tomas Novak",
+                    "id": "9000803",
+                    "score": 69,
+                    "grade": "D"
+                },
+                {
+                    "name": "Tomas Novak",
+                    "id": "9000803",
+                    "score": 74,
+                    "grade": "C"
+                },
+                {
+                    "name": "Tomas Novak",
+                    "id": "9000803",
+                    "score": 83,
+                    "grade": "B"
+                },
+                {
+                    "name": "John Krasinsky",
+                    "id": "9032104",
+                    "score": 79,
+                    "grade": "C"
+                },
+                {
+                    "name": "John Krasinsky",
+                    "id": "9032104",
+                    "score": 63,
+                    "grade": "D"
+                },
+                {
+                    "name": "John Krasinsky",
+                    "id": "9032104",
+                    "score": 66,
+                    "grade": "D"
+                }
+            ]
+        },
+        "CS404": {
+            "courseName": "Discrete Math",
+            "courseCode": "CS404",
+            "creditHours": 5,
+            "records": 60,
+            "mean": 72.76666666666667,
+            "median": 73.0,
+            "highest": 100,
+            "lowest": 36,
+            "passRate": 83.33333333333334,
+            "modes": [
+                72,
+                76
+            ],
+            "gradeCounts": {
+                "A": 6,
+                "B": 14,
+                "C": 17,
+                "D": 13,
+                "F": 10
+            },
+            "students": [
+                {
+                    "name": "Sarah Mavis",
+                    "id": "9000137",
+                    "score": 81,
+                    "grade": "B"
+                },
+                {
+                    "name": "Sarah Mavis",
+                    "id": "9000137",
+                    "score": 86,
+                    "grade": "B"
+                },
+                {
+                    "name": "Sarah Mavis",
+                    "id": "9000137",
+                    "score": 74,
+                    "grade": "C"
+                },
+                {
+                    "name": "Jean Dove",
+                    "id": "9000174",
+                    "score": 53,
+                    "grade": "F"
+                },
+                {
+                    "name": "Jean Dove",
+                    "id": "9000174",
+                    "score": 65,
+                    "grade": "D"
+                },
+                {
+                    "name": "Jean Dove",
+                    "id": "9000174",
+                    "score": 76,
+                    "grade": "C"
+                },
+                {
+                    "name": "Clancy Toms",
+                    "id": "9000211",
+                    "score": 54,
+                    "grade": "F"
+                },
+                {
+                    "name": "Clancy Toms",
+                    "id": "9000211",
+                    "score": 57,
+                    "grade": "F"
+                },
+                {
+                    "name": "Clancy Toms",
+                    "id": "9000211",
+                    "score": 41,
+                    "grade": "F"
+                },
+                {
+                    "name": "Ama Mensah",
+                    "id": "9000248",
+                    "score": 69,
+                    "grade": "D"
+                },
+                {
+                    "name": "Ama Mensah",
+                    "id": "9000248",
+                    "score": 83,
+                    "grade": "B"
+                },
+                {
+                    "name": "Ama Mensah",
+                    "id": "9000248",
+                    "score": 80,
+                    "grade": "B"
+                },
+                {
+                    "name": "Kofi Boateng",
+                    "id": "9000285",
+                    "score": 65,
+                    "grade": "D"
+                },
+                {
+                    "name": "Kofi Boateng",
+                    "id": "9000285",
+                    "score": 66,
+                    "grade": "D"
+                },
+                {
+                    "name": "Kofi Boateng",
+                    "id": "9000285",
+                    "score": 76,
+                    "grade": "C"
+                },
+                {
+                    "name": "Abena Carter",
+                    "id": "9000322",
+                    "score": 75,
+                    "grade": "C"
+                },
+                {
+                    "name": "Abena Carter",
+                    "id": "9000322",
+                    "score": 72,
+                    "grade": "C"
+                },
+                {
+                    "name": "Abena Carter",
+                    "id": "9000322",
+                    "score": 86,
+                    "grade": "B"
+                },
+                {
+                    "name": "Elijah Tetteh",
+                    "id": "9000359",
+                    "score": 87,
+                    "grade": "B"
+                },
+                {
+                    "name": "Elijah Tetteh",
+                    "id": "9000359",
+                    "score": 81,
+                    "grade": "B"
+                },
+                {
+                    "name": "Elijah Tetteh",
+                    "id": "9000359",
+                    "score": 91,
+                    "grade": "A"
+                },
+                {
+                    "name": "Priya Nair",
+                    "id": "9000396",
+                    "score": 72,
+                    "grade": "C"
+                },
+                {
+                    "name": "Priya Nair",
+                    "id": "9000396",
+                    "score": 58,
+                    "grade": "F"
+                },
+                {
+                    "name": "Priya Nair",
+                    "id": "9000396",
+                    "score": 67,
+                    "grade": "D"
+                },
+                {
+                    "name": "Lucas Stewart",
+                    "id": "9000433",
+                    "score": 83,
+                    "grade": "B"
+                },
+                {
+                    "name": "Lucas Stewart",
+                    "id": "9000433",
+                    "score": 76,
+                    "grade": "C"
+                },
+                {
+                    "name": "Lucas Stewart",
+                    "id": "9000433",
+                    "score": 88,
+                    "grade": "B"
+                },
+                {
+                    "name": "Fiifi Edwards",
+                    "id": "9000470",
+                    "score": 78,
+                    "grade": "C"
+                },
+                {
+                    "name": "Fiifi Edwards",
+                    "id": "9000470",
+                    "score": 97,
+                    "grade": "A"
+                },
+                {
+                    "name": "Fiifi Edwards",
+                    "id": "9000470",
+                    "score": 100,
+                    "grade": "A"
+                },
+                {
+                    "name": "Wei Danso",
+                    "id": "9000507",
+                    "score": 80,
+                    "grade": "B"
+                },
+                {
+                    "name": "Wei Danso",
+                    "id": "9000507",
+                    "score": 66,
+                    "grade": "D"
+                },
+                {
+                    "name": "Wei Danso",
+                    "id": "9000507",
+                    "score": 58,
+                    "grade": "F"
+                },
+                {
+                    "name": "Maya Lopez",
+                    "id": "9000544",
+                    "score": 67,
+                    "grade": "D"
+                },
+                {
+                    "name": "Maya Lopez",
+                    "id": "9000544",
+                    "score": 72,
+                    "grade": "C"
+                },
+                {
+                    "name": "Maya Lopez",
+                    "id": "9000544",
+                    "score": 62,
+                    "grade": "D"
+                },
+                {
+                    "name": "Samuel Owusu",
+                    "id": "9000581",
+                    "score": 65,
+                    "grade": "D"
+                },
+                {
+                    "name": "Samuel Owusu",
+                    "id": "9000581",
+                    "score": 70,
+                    "grade": "C"
+                },
+                {
+                    "name": "Samuel Owusu",
+                    "id": "9000581",
+                    "score": 70,
+                    "grade": "C"
+                },
+                {
+                    "name": "Nia Johnson",
+                    "id": "9000618",
+                    "score": 76,
+                    "grade": "C"
+                },
+                {
+                    "name": "Nia Johnson",
+                    "id": "9000618",
+                    "score": 77,
+                    "grade": "C"
+                },
+                {
+                    "name": "Nia Johnson",
+                    "id": "9000618",
+                    "score": 85,
+                    "grade": "B"
+                },
+                {
+                    "name": "Omar Haddad",
+                    "id": "9000655",
+                    "score": 61,
+                    "grade": "D"
+                },
+                {
+                    "name": "Omar Haddad",
+                    "id": "9000655",
+                    "score": 72,
+                    "grade": "C"
+                },
+                {
+                    "name": "Omar Haddad",
+                    "id": "9000655",
+                    "score": 82,
+                    "grade": "B"
+                },
+                {
+                    "name": "Grace Appiah",
+                    "id": "9000692",
+                    "score": 58,
+                    "grade": "F"
+                },
+                {
+                    "name": "Grace Appiah",
+                    "id": "9000692",
+                    "score": 45,
+                    "grade": "F"
+                },
+                {
+                    "name": "Grace Appiah",
+                    "id": "9000692",
+                    "score": 36,
+                    "grade": "F"
+                },
+                {
+                    "name": "Daniel Garcia",
+                    "id": "9000729",
+                    "score": 88,
+                    "grade": "B"
+                },
+                {
+                    "name": "Daniel Garcia",
+                    "id": "9000729",
+                    "score": 94,
+                    "grade": "A"
+                },
+                {
+                    "name": "Daniel Garcia",
+                    "id": "9000729",
+                    "score": 100,
+                    "grade": "A"
+                },
+                {
+                    "name": "Esi Quaye",
+                    "id": "9000766",
+                    "score": 74,
+                    "grade": "C"
+                },
+                {
+                    "name": "Esi Quaye",
+                    "id": "9000766",
+                    "score": 80,
+                    "grade": "B"
+                },
+                {
+                    "name": "Esi Quaye",
+                    "id": "9000766",
+                    "score": 63,
+                    "grade": "D"
+                },
+                {
+                    "name": "Tomas Novak",
+                    "id": "9000803",
+                    "score": 71,
+                    "grade": "C"
+                },
+                {
+                    "name": "Tomas Novak",
+                    "id": "9000803",
+                    "score": 78,
+                    "grade": "C"
+                },
+                {
+                    "name": "Tomas Novak",
+                    "id": "9000803",
+                    "score": 91,
+                    "grade": "A"
+                },
+                {
+                    "name": "John Krasinsky",
+                    "id": "9032104",
+                    "score": 68,
+                    "grade": "D"
+                },
+                {
+                    "name": "John Krasinsky",
+                    "id": "9032104",
+                    "score": 64,
+                    "grade": "D"
+                },
+                {
+                    "name": "John Krasinsky",
+                    "id": "9032104",
+                    "score": 56,
+                    "grade": "F"
+                }
+            ]
+        }
+    },
+    "majors": {
+        "Biology": {
+            "students": 4,
+            "records": 24,
+            "mean": 79.5,
+            "median": 79.5,
+            "highest": 91,
+            "lowest": 69,
+            "passRate": 100.0,
+            "modes": [
+                83
+            ],
+            "gradeCounts": {
+                "A": 1,
+                "B": 11,
+                "C": 10,
+                "D": 2
+            }
+        },
+        "Computer Science": {
+            "students": 4,
+            "records": 24,
+            "mean": 74.75,
+            "median": 74.0,
+            "highest": 100,
+            "lowest": 56,
+            "passRate": 91.66666666666666,
+            "modes": [
+                56,
+                66,
+                68,
+                76,
+                79,
+                82
+            ],
+            "gradeCounts": {
+                "A": 4,
+                "B": 3,
+                "C": 6,
+                "D": 9,
+                "F": 2
+            }
+        },
+        "Engineering": {
+            "students": 4,
+            "records": 24,
+            "mean": 63.208333333333336,
+            "median": 65.0,
+            "highest": 80,
+            "lowest": 41,
+            "passRate": 66.66666666666666,
+            "modes": [
+                65,
+                70
+            ],
+            "gradeCounts": {
+                "B": 1,
+                "C": 7,
+                "D": 8,
+                "F": 8
+            }
+        },
+        "IT": {
+            "students": 4,
+            "records": 24,
+            "mean": 69.58333333333333,
+            "median": 73.0,
+            "highest": 86,
+            "lowest": 36,
+            "passRate": 75.0,
+            "modes": [
+                86
+            ],
+            "gradeCounts": {
+                "B": 7,
+                "C": 7,
+                "D": 4,
+                "F": 6
+            }
+        },
+        "Mathematics": {
+            "students": 4,
+            "records": 24,
+            "mean": 78.20833333333333,
+            "median": 78.0,
+            "highest": 100,
+            "lowest": 53,
+            "passRate": 95.83333333333334,
+            "modes": [
+                65,
+                94
+            ],
+            "gradeCounts": {
+                "A": 7,
+                "B": 5,
+                "C": 4,
+                "D": 7,
+                "F": 1
+            }
+        }
+    },
+    "years": {
+        "1": {
+            "students": 5,
+            "records": 30,
+            "mean": 65.26666666666667,
+            "median": 66.5,
+            "highest": 83,
+            "lowest": 36,
+            "passRate": 73.33333333333333,
+            "modes": [
+                72
+            ],
+            "gradeCounts": {
+                "B": 3,
+                "C": 8,
+                "D": 11,
+                "F": 8
+            }
+        },
+        "2": {
+            "students": 5,
+            "records": 30,
+            "mean": 77.83333333333333,
+            "median": 77.5,
+            "highest": 100,
+            "lowest": 56,
+            "passRate": 96.66666666666667,
+            "modes": [
+                88
+            ],
+            "gradeCounts": {
+                "A": 4,
+                "B": 10,
+                "C": 7,
+                "D": 8,
+                "F": 1
+            }
+        },
+        "3": {
+            "students": 5,
+            "records": 30,
+            "mean": 77.03333333333333,
+            "median": 77.0,
+            "highest": 100,
+            "lowest": 53,
+            "passRate": 96.66666666666667,
+            "modes": [
+                65
+            ],
+            "gradeCounts": {
+                "A": 4,
+                "B": 5,
+                "C": 14,
+                "D": 6,
+                "F": 1
+            }
+        },
+        "4": {
+            "students": 5,
+            "records": 30,
+            "mean": 72.06666666666666,
+            "median": 73.0,
+            "highest": 94,
+            "lowest": 41,
+            "passRate": 76.66666666666667,
+            "modes": [
+                68,
+                72,
+                80,
+                81,
+                82,
+                83,
+                91
+            ],
+            "gradeCounts": {
+                "A": 4,
+                "B": 9,
+                "C": 5,
+                "D": 5,
+                "F": 7
+            }
+        }
+    },
+    "topPerformers": [
+        {
+            "rank": 1,
+            "name": "Daniel Garcia",
+            "id": "9000729",
+            "major": "Mathematics",
+            "year": 2,
+            "average": 92.5,
+            "gpa": 3.6666666666666665,
+            "percentile": 100.0
+        },
+        {
+            "rank": 2,
+            "name": "Fiifi Edwards",
+            "id": "9000470",
+            "major": "Computer Science",
+            "year": 3,
+            "average": 90.66666666666667,
+            "gpa": 3.3333333333333335,
+            "percentile": 95.0
+        },
+        {
+            "rank": 3,
+            "name": "Elijah Tetteh",
+            "id": "9000359",
+            "major": "Mathematics",
+            "year": 4,
+            "average": 87.5,
+            "gpa": 3.5,
+            "percentile": 90.0
+        },
+        {
+            "rank": 4,
+            "name": "Lucas Stewart",
+            "id": "9000433",
+            "major": "Biology",
+            "year": 2,
+            "average": 82.66666666666667,
+            "gpa": 2.6666666666666665,
+            "percentile": 85.0
+        },
+        {
+            "rank": 5,
+            "name": "Nia Johnson",
+            "id": "9000618",
+            "major": "Biology",
+            "year": 3,
+            "average": 80.66666666666667,
+            "gpa": 2.5,
+            "percentile": 80.0
+        },
+        {
+            "rank": 6,
+            "name": "Sarah Mavis",
+            "id": "9000137",
+            "major": "IT",
+            "year": 2,
+            "average": 79.33333333333333,
+            "gpa": 2.5,
+            "percentile": 75.0
+        },
+        {
+            "rank": 7,
+            "name": "Abena Carter",
+            "id": "9000322",
+            "major": "IT",
+            "year": 3,
+            "average": 77.66666666666667,
+            "gpa": 2.1666666666666665,
+            "percentile": 70.0
+        },
+        {
+            "rank": 7,
+            "name": "Tomas Novak",
+            "id": "9000803",
+            "major": "Biology",
+            "year": 4,
+            "average": 77.66666666666667,
+            "gpa": 2.3333333333333335,
+            "percentile": 70.0
+        },
+        {
+            "rank": 9,
+            "name": "Ama Mensah",
+            "id": "9000248",
+            "major": "Biology",
+            "year": 1,
+            "average": 77.0,
+            "gpa": 2.3333333333333335,
+            "percentile": 60.0
+        },
+        {
+            "rank": 10,
+            "name": "Omar Haddad",
+            "id": "9000655",
+            "major": "Computer Science",
+            "year": 4,
+            "average": 74.33333333333333,
+            "gpa": 2.1666666666666665,
+            "percentile": 55.00000000000001
+        }
+    ],
+    "students": [
+        {
+            "name": "Sarah Mavis",
+            "id": "9000137",
+            "major": "IT",
+            "year": 2,
+            "average": 79.33333333333333,
+            "weightedAverage": 79.33333333333333,
+            "gpa": 2.5,
+            "rank": 6,
+            "percentile": 75.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 80,
+                    "grade": "B",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 81,
+                    "grade": "B",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 86,
+                    "grade": "B",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 86,
+                    "grade": "B",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 69,
+                    "grade": "D",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 74,
+                    "grade": "C",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Jean Dove",
+            "id": "9000174",
+            "major": "Mathematics",
+            "year": 3,
+            "average": 64.16666666666667,
+            "weightedAverage": 64.16666666666667,
+            "gpa": 1.0,
+            "rank": 18,
+            "percentile": 15.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 65,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 53,
+                    "grade": "F",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 61,
+                    "grade": "D",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 65,
+                    "grade": "D",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 65,
+                    "grade": "D",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 76,
+                    "grade": "C",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Clancy Toms",
+            "id": "9000211",
+            "major": "Engineering",
+            "year": 4,
+            "average": 49.666666666666664,
+            "weightedAverage": 49.666666666666664,
+            "gpa": 0.0,
+            "rank": 20,
+            "percentile": 5.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 51,
+                    "grade": "F",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 54,
+                    "grade": "F",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 53,
+                    "grade": "F",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 57,
+                    "grade": "F",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 42,
+                    "grade": "F",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 41,
+                    "grade": "F",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Ama Mensah",
+            "id": "9000248",
+            "major": "Biology",
+            "year": 1,
+            "average": 77.0,
+            "weightedAverage": 77.0,
+            "gpa": 2.3333333333333335,
+            "rank": 9,
+            "percentile": 60.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 71,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 69,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 78,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 83,
+                    "grade": "B",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 81,
+                    "grade": "B",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 80,
+                    "grade": "B",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Kofi Boateng",
+            "id": "9000285",
+            "major": "Computer Science",
+            "year": 2,
+            "average": 68.0,
+            "weightedAverage": 68.0,
+            "gpa": 1.1666666666666667,
+            "rank": 14,
+            "percentile": 35.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 56,
+                    "grade": "F",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 65,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 69,
+                    "grade": "D",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 66,
+                    "grade": "D",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 76,
+                    "grade": "C",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 76,
+                    "grade": "C",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Abena Carter",
+            "id": "9000322",
+            "major": "IT",
+            "year": 3,
+            "average": 77.66666666666667,
+            "weightedAverage": 77.66666666666667,
+            "gpa": 2.1666666666666665,
+            "rank": 7,
+            "percentile": 70.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 77,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 75,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 77,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 72,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 79,
+                    "grade": "C",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 86,
+                    "grade": "B",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Elijah Tetteh",
+            "id": "9000359",
+            "major": "Mathematics",
+            "year": 4,
+            "average": 87.5,
+            "weightedAverage": 87.5,
+            "gpa": 3.5,
+            "rank": 3,
+            "percentile": 90.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 92,
+                    "grade": "A",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 87,
+                    "grade": "B",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 80,
+                    "grade": "B",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 81,
+                    "grade": "B",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 94,
+                    "grade": "A",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 91,
+                    "grade": "A",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Priya Nair",
+            "id": "9000396",
+            "major": "Engineering",
+            "year": 1,
+            "average": 64.5,
+            "weightedAverage": 64.5,
+            "gpa": 1.0,
+            "rank": 17,
+            "percentile": 20.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 61,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 72,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 70,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 58,
+                    "grade": "F",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 59,
+                    "grade": "F",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 67,
+                    "grade": "D",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Lucas Stewart",
+            "id": "9000433",
+            "major": "Biology",
+            "year": 2,
+            "average": 82.66666666666667,
+            "weightedAverage": 82.66666666666667,
+            "gpa": 2.6666666666666665,
+            "rank": 4,
+            "percentile": 85.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 79,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 83,
+                    "grade": "B",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 88,
+                    "grade": "B",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 76,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 82,
+                    "grade": "B",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 88,
+                    "grade": "B",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Fiifi Edwards",
+            "id": "9000470",
+            "major": "Computer Science",
+            "year": 3,
+            "average": 90.66666666666667,
+            "weightedAverage": 90.66666666666667,
+            "gpa": 3.3333333333333335,
+            "rank": 2,
+            "percentile": 95.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 79,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 78,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 92,
+                    "grade": "A",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 97,
+                    "grade": "A",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 98,
+                    "grade": "A",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 100,
+                    "grade": "A",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Wei Danso",
+            "id": "9000507",
+            "major": "IT",
+            "year": 4,
+            "average": 71.16666666666667,
+            "weightedAverage": 71.16666666666667,
+            "gpa": 1.6666666666666667,
+            "rank": 12,
+            "percentile": 45.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 83,
+                    "grade": "B",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 80,
+                    "grade": "B",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 68,
+                    "grade": "D",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 66,
+                    "grade": "D",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 72,
+                    "grade": "C",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 58,
+                    "grade": "F",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Maya Lopez",
+            "id": "9000544",
+            "major": "Mathematics",
+            "year": 1,
+            "average": 68.66666666666667,
+            "weightedAverage": 68.66666666666667,
+            "gpa": 1.5,
+            "rank": 13,
+            "percentile": 40.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 64,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 67,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 72,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 72,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 75,
+                    "grade": "C",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 62,
+                    "grade": "D",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Samuel Owusu",
+            "id": "9000581",
+            "major": "Engineering",
+            "year": 2,
+            "average": 66.66666666666667,
+            "weightedAverage": 66.66666666666667,
+            "gpa": 1.3333333333333333,
+            "rank": 15,
+            "percentile": 30.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 69,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 65,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 61,
+                    "grade": "D",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 70,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 65,
+                    "grade": "D",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 70,
+                    "grade": "C",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Nia Johnson",
+            "id": "9000618",
+            "major": "Biology",
+            "year": 3,
+            "average": 80.66666666666667,
+            "weightedAverage": 80.66666666666667,
+            "gpa": 2.5,
+            "rank": 5,
+            "percentile": 80.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 81,
+                    "grade": "B",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 76,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 79,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 77,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 86,
+                    "grade": "B",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 85,
+                    "grade": "B",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Omar Haddad",
+            "id": "9000655",
+            "major": "Computer Science",
+            "year": 4,
+            "average": 74.33333333333333,
+            "weightedAverage": 74.33333333333333,
+            "gpa": 2.1666666666666665,
+            "rank": 10,
+            "percentile": 55.00000000000001,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 68,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 61,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 82,
+                    "grade": "B",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 72,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 81,
+                    "grade": "B",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 82,
+                    "grade": "B",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Grace Appiah",
+            "id": "9000692",
+            "major": "IT",
+            "year": 1,
+            "average": 50.166666666666664,
+            "weightedAverage": 50.166666666666664,
+            "gpa": 0.16666666666666666,
+            "rank": 19,
+            "percentile": 10.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 60,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 58,
+                    "grade": "F",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 51,
+                    "grade": "F",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 45,
+                    "grade": "F",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 51,
+                    "grade": "F",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 36,
+                    "grade": "F",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Daniel Garcia",
+            "id": "9000729",
+            "major": "Mathematics",
+            "year": 2,
+            "average": 92.5,
+            "weightedAverage": 92.5,
+            "gpa": 3.6666666666666665,
+            "rank": 1,
+            "percentile": 100.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 88,
+                    "grade": "B",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 88,
+                    "grade": "B",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 94,
+                    "grade": "A",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 94,
+                    "grade": "A",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 91,
+                    "grade": "A",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 100,
+                    "grade": "A",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Esi Quaye",
+            "id": "9000766",
+            "major": "Engineering",
+            "year": 3,
+            "average": 72.0,
+            "weightedAverage": 72.0,
+            "gpa": 1.8333333333333333,
+            "rank": 11,
+            "percentile": 50.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 78,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 74,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 72,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 80,
+                    "grade": "B",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 65,
+                    "grade": "D",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 63,
+                    "grade": "D",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "Tomas Novak",
+            "id": "9000803",
+            "major": "Biology",
+            "year": 4,
+            "average": 77.66666666666667,
+            "weightedAverage": 77.66666666666667,
+            "gpa": 2.3333333333333335,
+            "rank": 7,
+            "percentile": 70.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 69,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 71,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 74,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 78,
+                    "grade": "C",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 83,
+                    "grade": "B",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 91,
+                    "grade": "A",
+                    "semester": "2026S1"
+                }
+            ]
+        },
+        {
+            "name": "John Krasinsky",
+            "id": "9032104",
+            "major": "Computer Science",
+            "year": 1,
+            "average": 66.0,
+            "weightedAverage": 66.0,
+            "gpa": 1.0,
+            "rank": 16,
+            "percentile": 25.0,
+            "grades": [
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 79,
+                    "grade": "C",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 68,
+                    "grade": "D",
+                    "semester": "2025S1"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 63,
+                    "grade": "D",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 64,
+                    "grade": "D",
+                    "semester": "2025S2"
+                },
+                {
+                    "courseName": "Algorithms",
+                    "courseCode": "CS202",
+                    "creditHours": 5,
+                    "score": 66,
+                    "grade": "D",
+                    "semester": "2026S1"
+                },
+                {
+                    "courseName": "Discrete Math",
+                    "courseCode": "CS404",
+                    "creditHours": 5,
+                    "score": 56,
+                    "grade": "F",
+                    "semester": "2026S1"
+                }
+            ]
+        }
+    ]
+}

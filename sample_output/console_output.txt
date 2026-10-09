@@ -1,0 +1,283 @@
+===== LOADING DATA =====
+Courses: 2 loaded
+Students: 20 loaded
+Grades: 120 loaded
+Load time: <time> s
+
+===== DATA LOADED =====
+Students: 20
+Grade records: 120
+
+===== OVERALL ANALYTICS =====
+Records: 120
+Mean: 73.05
+Median: 74
+Highest: 100
+Lowest: 36
+Pass Rate: 85.8333%
+Mode(s): 65 72 
+Grade Counts:
+A -> 12
+B -> 27
+C -> 34
+D -> 30
+F -> 17
+
+----- Overall grade distribution -----
+  A | ##############                                 12 (10.0%)
+  B | ###############################                27 (22.5%)
+  C | ########################################       34 (28.3%)
+  D | ###################################            30 (25.0%)
+  F | ####################                           17 (14.2%)
+
+===== STUDENT LOOKUP =====
+Found: John Krasinsky
+ID: 9032104
+Major: Computer Science
+Average: 66
+GPA: 1
+Rank: 16 of 20 (percentile 25)
+Trend: declining
+
+===== COURSE ANALYTICS: Algorithms (CS202) =====
+Records: 60
+Mean: 73.3333
+Median: 74.5
+Highest: 98
+Lowest: 42
+Pass Rate: 88.3333%
+Mode(s): 79 
+Grade Counts:
+A -> 6
+B -> 13
+C -> 17
+D -> 17
+F -> 7
+
+----- CS202 grade distribution -----
+  A | ##############                                  6 (10.0%)
+  B | ##############################                 13 (21.7%)
+  C | ########################################       17 (28.3%)
+  D | ########################################       17 (28.3%)
+  F | ################                                7 (11.7%)
+
+----- Top CS202 scores -----
+1. Fiifi Edwards - 98 (A)
+2. Daniel Garcia - 94 (A)
+3. Elijah Tetteh - 94 (A)
+4. Fiifi Edwards - 92 (A)
+5. Elijah Tetteh - 92 (A)
+6. Daniel Garcia - 91 (A)
+7. Daniel Garcia - 88 (B)
+8. Lucas Stewart - 88 (B)
+9. Nia Johnson - 86 (B)
+10. Sarah Mavis - 86 (B)
+
+===== COURSE ANALYTICS: Discrete Math (CS404) =====
+Records: 60
+Mean: 72.7667
+Median: 73
+Highest: 100
+Lowest: 36
+Pass Rate: 83.3333%
+Mode(s): 72 76 
+Grade Counts:
+A -> 6
+B -> 14
+C -> 17
+D -> 13
+F -> 10
+
+----- CS404 grade distribution -----
+  A | ##############                                  6 (10.0%)
+  B | ################################               14 (23.3%)
+  C | ########################################       17 (28.3%)
+  D | ##############################                 13 (21.7%)
+  F | #######################                        10 (16.7%)
+
+----- Top CS404 scores -----
+1. Fiifi Edwards - 100 (A)
+2. Daniel Garcia - 100 (A)
+3. Fiifi Edwards - 97 (A)
+4. Daniel Garcia - 94 (A)
+5. Tomas Novak - 91 (A)
+6. Elijah Tetteh - 91 (A)
+7. Daniel Garcia - 88 (B)
+8. Lucas Stewart - 88 (B)
+9. Elijah Tetteh - 87 (B)
+10. Sarah Mavis - 86 (B)
+
+===== TOP STUDENTS =====
+  1. Daniel Garcia          avg  92.50  GPA  3.7  percentile 100.00
+  2. Fiifi Edwards          avg  90.67  GPA  3.3  percentile  95.00
+  3. Elijah Tetteh          avg  87.50  GPA  3.5  percentile  90.00
+  4. Lucas Stewart          avg  82.67  GPA  2.7  percentile  85.00
+  5. Nia Johnson            avg  80.67  GPA  2.5  percentile  80.00
+  6. Sarah Mavis            avg  79.33  GPA  2.5  percentile  75.00
+  7. Abena Carter           avg  77.67  GPA  2.2  percentile  70.00
+  7. Tomas Novak            avg  77.67  GPA  2.3  percentile  70.00
+  9. Ama Mensah             avg  77.00  GPA  2.3  percentile  60.00
+ 10. Omar Haddad            avg  74.33  GPA  2.2  percentile  55.00
+
+===== STUDENTS BY YEAR =====
+Year 1: 5 students
+Year 2: 5 students
+Year 3: 5 students
+Year 4: 5 students
+
+===== Biology ANALYTICS =====
+Records: 24
+Mean: 79.5
+Median: 79.5
+Highest: 91
+Lowest: 69
+Pass Rate: 100%
+Mode(s): 83 
+Grade Counts:
+A -> 1
+B -> 11
+C -> 10
+D -> 2
+
+===== Computer Science ANALYTICS =====
+Records: 24
+Mean: 74.75
+Median: 74
+Highest: 100
+Lowest: 56
+Pass Rate: 91.6667%
+Mode(s): 56 66 68 76 79 82 
+Grade Counts:
+A -> 4
+B -> 3
+C -> 6
+D -> 9
+F -> 2
+
+===== Engineering ANALYTICS =====
+Records: 24
+Mean: 63.2083
+Median: 65
+Highest: 80
+Lowest: 41
+Pass Rate: 66.6667%
+Mode(s): 65 70 
+Grade Counts:
+B -> 1
+C -> 7
+D -> 8
+F -> 8
+
+===== IT ANALYTICS =====
+Records: 24
+Mean: 69.5833
+Median: 73
+Highest: 86
+Lowest: 36
+Pass Rate: 75%
+Mode(s): 86 
+Grade Counts:
+B -> 7
+C -> 7
+D -> 4
+F -> 6
+
+===== Mathematics ANALYTICS =====
+Records: 24
+Mean: 78.2083
+Median: 78
+Highest: 100
+Lowest: 53
+Pass Rate: 95.8333%
+Mode(s): 65 94 
+Grade Counts:
+A -> 7
+B -> 5
+C -> 4
+D -> 7
+F -> 1
+
+===== 2025S1 ANALYTICS =====
+Records: 40
+Mean: 71.875
+Median: 71.5
+Highest: 92
+Lowest: 51
+Pass Rate: 87.5%
+Mode(s): 65 69 79 
+Grade Counts:
+A -> 1
+B -> 9
+C -> 12
+D -> 13
+F -> 5
+
+===== 2025S2 ANALYTICS =====
+Records: 40
+Mean: 73.225
+Median: 72
+Highest: 97
+Lowest: 45
+Pass Rate: 87.5%
+Mode(s): 72 
+Grade Counts:
+A -> 4
+B -> 8
+C -> 14
+D -> 9
+F -> 5
+
+===== 2026S1 ANALYTICS =====
+Records: 40
+Mean: 74.05
+Median: 76
+Highest: 100
+Lowest: 36
+Pass Rate: 82.5%
+Mode(s): 65 76 91 
+Grade Counts:
+A -> 7
+B -> 10
+C -> 8
+D -> 8
+F -> 7
+
+----- Semester trend (rolling window = 2) -----
+  2025S1 | ############################             mean  71.88  rolling  71.88  (40 records)
+  2025S2 | #############################            mean  73.22  rolling  72.55  (40 records)
+  2026S1 | #############################            mean  74.05  rolling  73.64  (40 records)
+
+----- Student trend summary -----
+  improving: 12
+  declining: 7
+  stable: 1
+
+===== STREAMING ANALYSIS (constant memory) =====
+Rows processed: 120
+Mean: 73.05  Median: 74  Pass rate: 85.8333%
+Time: <time> s
+
+===== REPORT =====
+JSON report written to sample_output/sample_report.json
+
+Memory benchmark with 120 items
+(requested bytes via TrackingAllocator; excludes heap overhead and strings beyond the small-string buffer)
+
+===== HOLDING / COUNTING SCORES =====
+Approach                                                Peak bytes      Allocs  Bytes/item    Build ms
+vector<int> (push_back)                                        768           8        6.40         0.0
+vector<int> (reserve first)                                    480           1        4.00         0.0
+deque<int>                                                     576           2        4.80         0.0
+list<int>                                                     2880         120       24.00         0.0
+multiset<int> (sorted)                                        4800         120       40.00         0.0
+map<int,int> counter                                          2240          56       18.67         0.0
+unordered_map<int,int> counter                                1368          59       11.40         0.0
+ScoreHistogram (101 counters)                                  824           0        6.87         0.0
+
+===== GRADE RECORD LAYOUTS =====
+Approach                                                Peak bytes      Allocs  Bytes/item    Build ms
+GradeRecord (embedded Course) sizeof=112                     13440           1      112.00         0.0
+Flyweight (Course*) sizeof=48                                 5760           1       48.00         0.0
+PackedRecord (indices) sizeof=6                                720           1        6.00         0.0
+
+Program completed successfully in <time> s.

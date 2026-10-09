@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="student-grade-analytics/student-grade-analytics.vcxproj" Id="e623b2ab-932a-4207-9f6c-c9903799f163" />
+</Solution>

@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+*.user
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+ipch/
+
+# CMake
+build/
+out/
+
+# Generated reports. The full 100k-student report is ~230 MB, which GitHub
+# rejects (100 MB limit). sample_output/ holds the small committed example.
+analytics_report.json
