@@ -1,4 +1,5 @@
 # Student Grade Analytics Tool (C++20)
+![Screenshot of the tool running](screenshot.png)
 
 Processes student and grade CSV files, computes statistics (mean, median,
 mode, percentile rankings, grade distributions, semester trends), prints
